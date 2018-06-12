@@ -1,0 +1,126 @@
+/******************************
+*  SOCAIL SHARE ICONS *********
+******************************/
+.social-share
+{
+  background-color: #eee;
+  text-align: center;
+  padding: 20px;
+  padding-top: 50px;
+}
+.social-share ul li
+{
+  display: inline-block;
+}
+.social-share jumpotron{
+  padding: 20px;
+
+}
+
+.fa-share{
+  padding: 20px;
+  font-size: 20px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+
+
+}
+.fa-share:hover
+{
+  opacity: 0.7;
+}
+.social-icons ul li a {
+  border: 0 none;
+  border-radius: 0;
+  color: #fff;
+  padding:0px;
+  display: inline-block;
+}
+
+
+
+.social-icons ul li{
+  display:inline-block;
+  padding-right: 50px;
+}
+
+.social-icons ul li a i {
+  padding: 11px 15px;
+   transition: all 0.9s ease 0s;
+  -moz-transition: all 0.9s ease 0s;
+  -webkit-transition: all 0.9s ease 0s;
+  -o-transition: all 0.9s ease 0s;
+}
+
+.social-icons ul li a i:hover{
+  color: #fff;
+   transition: all 0.9s ease 0s;
+  -moz-transition: all 0.9s ease 0s;
+  -webkit-transition: all 0.9s ease 0s;
+  -o-transition: all 0.9s ease 0s;
+}
+
+.fa-facebook
+{
+  background-color: #3B5998;
+    color:#fff;
+}
+
+.fa-twitter
+{
+  background-color: #55ACEE;
+    color:#fff;
+}
+
+.fa-linkedin
+{
+  background-color: #4e6ee3;
+    color:#fff;
+}
+
+.fa-dribbble
+{
+  background-color: #cf55a3;
+    color:#fff;
+}
+.fa-google-plus
+{
+  background-color: #c55822;
+    color:#fff;
+}
+
+.fa-whats-up
+{
+  background-color: #66d42a;
+    color:#fff;
+}
+.fa-android
+{
+  background-color: #7ad14a;
+    color:#fff;
+}
+.fa-pinterest
+{
+  background-color: #871328;
+    color:#fff;
+}
+.fa-facebook:hover {
+  background: #0083C9;
+}
+
+.fa-twitter:hover  {
+  background:#5BBCEC;
+}
+
+.fa-linkedin:hover  {
+  background:#FF4518;
+}
+
+.fa-dribbble:hover  {
+  background:#90C9DC;
+}
+
+.fa-google-plus:hover  {
+  background:#CE3C2D;
+}
